@@ -1,0 +1,10 @@
+{
+    "title": "Personajes de Pokemon",
+    "characters": {
+      "name": "Nombre",
+      "dimensions": "Dimensiones",
+      "type": "Tipo",
+      "image": "Imagen"
+    }
+  }
+  

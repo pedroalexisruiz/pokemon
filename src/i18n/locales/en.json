@@ -1,0 +1,9 @@
+{
+  "title": "Pokemon's Characters",
+  "characters": {
+    "name": "Name",
+    "dimensions": "Dimensions",
+    "type": "Type",
+    "image": "Image"
+  }
+}
